@@ -1,0 +1,55 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1663881178733,629,info warmup,200,,warmup 1-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,625,0,517
+1663881179392,536,info warmup,200,,warmup 1-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,536,0,431
+1663881179929,481,info warmup,200,,warmup 1-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,481,0,379
+1663881180411,485,info warmup,200,,warmup 1-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,485,0,379
+1663881180897,480,info warmup,200,,warmup 1-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,479,0,381
+1663881181380,473,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,473,0,377
+1663881181856,472,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,472,0,373
+1663881182329,486,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,485,0,381
+1663881182816,476,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,476,0,371
+1663881183293,474,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,473,0,369
+1663881183768,471,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,471,0,368
+1663881184240,477,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,477,0,368
+1663881184718,495,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,495,0,395
+1663881185214,471,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,470,0,369
+1663881185686,467,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,467,0,369
+1663881186155,473,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,472,0,367
+1663881186628,470,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,470,0,365
+1663881187099,475,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,474,0,371
+1663881187575,471,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,470,0,366
+1663881188047,478,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,478,0,376
+1663881188526,462,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,462,0,364
+1663881188989,466,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,466,0,358
+1663881189456,2693,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,2692,0,2588
+1663881192149,469,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,468,0,365
+1663881192618,473,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,473,0,370
+1663881193091,478,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,478,0,371
+1663881193571,463,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,463,0,366
+1663881194035,466,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,466,0,363
+1663881194502,481,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,481,0,383
+1663881194984,478,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,478,0,378
+1663881195463,484,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,484,0,377
+1663881195948,475,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,475,0,371
+1663881196424,459,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,459,0,360
+1663881196884,472,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,471,0,373
+1663881197356,462,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,462,0,356
+1663881197819,467,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,467,0,362
+1663881198287,489,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,489,0,384
+1663881198777,471,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,470,0,366
+1663881199249,476,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,476,0,372
+1663881199726,474,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,474,0,369
+1663881200201,464,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,464,0,361
+1663881200666,462,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,462,0,362
+1663881201129,467,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,467,0,366
+1663881201597,471,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,471,0,365
+1663881202069,475,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,475,0,373
+1663881202545,471,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,471,0,367
+1663881203017,471,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,470,0,366
+1663881203488,474,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,474,0,366
+1663881203963,465,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,465,0,366
+1663881204429,475,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,475,0,372
+1663881204905,466,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,466,0,364
+1663881205371,459,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,458,0,361
+1663881205830,453,info request,200,,perf test 2-1,text,true,,510,125,1,1,https://35.196.75.76:8844/info,453,0,358
+1663881206284,204,info request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,perf test 2-1,text,false,Expected to find an object with property ['auth-server'] in path $ but found 'java.lang.String'. This is not a json object according to the JsonProvider: 'com.jayway.jsonpath.spi.json.JsonSmartJsonProvider'.,3207,0,1,1,https://35.196.75.76:8844/info,0,0,204
